@@ -4,4 +4,4 @@ Edad: 25
 Llamamiento: Secretario AuxilAR
 Carrera: Programacion
 Grupo:5
-Hobbies: BIcicleta
+Hobbies: Menjar bicicleta
