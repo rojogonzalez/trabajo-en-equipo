@@ -1,0 +1,3 @@
+- Bryan Vásquez
+- Johnny Torre
+- Roberto González
